@@ -8,3 +8,7 @@ Dep trai
 int n,m;
 printf"thanhduy";
 
+for (int i=0; i<100: i++) {
+dfwjgbiagwbg
+}
+
