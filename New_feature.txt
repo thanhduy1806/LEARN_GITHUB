@@ -1,2 +1,5 @@
 include sth
 cout<< sth;
+
+int n,m;
+printf"thanhduy";
