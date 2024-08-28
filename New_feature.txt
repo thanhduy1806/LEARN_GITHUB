@@ -1,5 +1,10 @@
 include sth
 cout<< sth;
 
+
 Tran Hong Phuc
 Dep trai
+
+int n,m;
+printf"thanhduy";
+
